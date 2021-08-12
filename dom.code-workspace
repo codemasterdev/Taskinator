@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../robot-gladiators"
+		},
+		{
+			"path": "../../Portfolio"
+		},
+		{
+			"path": "../run-buddy"
+		},
+		{
+			"path": "../../Personal Projects/Chinx_Tribute"
+		},
+		{
+			"path": "../password-gen"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
